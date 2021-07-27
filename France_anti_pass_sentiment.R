@@ -3,10 +3,10 @@ require(syuzhet)
 require(tidyverse)
 require(tweetbotornot)
 
-api_key = 'a9aYkWO52PCXor5YbDkm7i5Dq'
-api_secret = 'oOaaiOCLjcVwrl8JMCLikFNfNipwl8jbgpFbCTZs5VmqYdsEwa'
-access_token = '14867447-iuG799lpnWf7nIGafc7heXmVJr4hfSMxjsBeC2bso'
-access_secret = 'GUGvZUK2a3xpQDVEBED998jclPuJBp6UGZzpQhe3vg3BL'
+api_key = ''
+api_secret = ''
+access_token = ''
+access_secret = ''
 
 token = create_token(
   app = 'EuPolitics',
