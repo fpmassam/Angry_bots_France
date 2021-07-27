@@ -1,1 +1,1 @@
-# Angry_bots_France
+# Sentiment analysis of a converstaion on French Twitter about vaccines and misinformation
